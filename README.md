@@ -43,7 +43,7 @@ The bootcamp is divided into three distinct levels of difficulty:
 * **Language:** DAX (Data Analysis Expressions)
 * **Primary Dataset:** [Microsoft Contoso Retail Sales Dataset](https://www.microsoft.com/en-us/download/details.aspx?id=18279) 📥
 * **Modeling Tool:** Power BI Desktop / DAX Studio
-* **Development Workflow:** WSL (Windows Subsystem for Linux) for environment management.
+* **Development Workflow:** Windows .
 
 ---
 
